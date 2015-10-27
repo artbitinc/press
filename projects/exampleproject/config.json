@@ -2,11 +2,11 @@
   "title": "Example Project",
   "largeLinks": [
     {
-      "name": "CompanyName.com",
+      "name": "Artbit.ca",
       "link": "&#47;"
     },
     {
-      "name": "Press Kit - Home",
+      "name": "Artbit Presskit",
       "link": "..&#47;..&#47;"
     }
   ],
