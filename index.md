@@ -1,21 +1,21 @@
-# ![Company Name](assets/images/header.png)
+# ![Artbit](assets/images/header.png)
 
 ## Factsheet
 
 **Developer:**  
-Company Name
+Artbit Inc.
 
 **Founding date:**  
-January 1, 2015
+May 1, 2015
 
 **Website:**  
-[companydomain.com][homepage]
+[artbit.ca][homepage]
 
 **Press / Business contact:**  
 [press-contact@company.com][contact]
 
 **Social:**  
-[twitter.com/companyname][twitter]  
+[twitter.com/artbitinc][twitter]  
 [facebook.com/companyname][facebook]  
 [Skype](callto:companyskypename)
 
@@ -118,24 +118,24 @@ Another of these. See [here](https://link)
 [press-contact@company.com][contact]
 
 **Twitter**  
-[twitter.com/companyname][twitter]
+[twitter.com/artbitinc][twitter]
 
 ** Facebook**  
 [facebook.com/companyname][facebook]
 
 **Web**  
-[companydomain.com][homepage]
+[artbit.ca][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://companydomain.com "Company Name"
+[homepage]: http://arbtit.ca "Artbit"
 
 [contact]: mailto:press-contact@company.com
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
+[twitter]: https://twitter.com/artbitinc
 [facebook]: https://facebook.com/companyname
 [skype]: callto:companyskypename
 

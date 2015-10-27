@@ -3,7 +3,7 @@
 ## Factsheet
 
 **Developer:**  
-Company Name
+Artbit Inc.
 
 **Release Date:**  
 January 1, 20XX
@@ -109,22 +109,22 @@ Another of these. See [here](https://link)
 [press-contact@company.com][contact]
 
 **Twitter**  
-[twitter.com/companyname][twitter]
+[twitter.com/artbitinc][twitter]
 
 ** Facebook**  
 [facebook.com/companyname][facebook]
 
 **Web**  
-[companydomain.com][homepage]
+[artbit.ca][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://companydomain.com "Company Name"
+[homepage]: http://artbit.ca "Artbit"
 
 [contact]: mailto:press-contact@company.com
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
+[twitter]: https://twitter.com/artbitinc
 [facebook]: https://facebook.com/companyname
